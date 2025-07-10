@@ -21,38 +21,7 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 - **[Clerk](https://clerk.dev/):** Authentication and user management service.
 - **[Firebase](https://firebase.google.com/):** Backend services for database.
 
-## 📱 How to Use
 
-1. **Login/Sign Up:** Start by logging in or signing up via Clerk.
-2. **Locate Stations:** The app automatically displays nearby EV charging stations.
-3. **Search:** Use the search bar to find specific stations.
-4. **Navigate:** Tap on a station to open directions in Google Maps.
-
-## 📋 Setup Instructions
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/Alwazf99/ev-charging-station-locator.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd ev-charging-app
-    ```
-
-3. **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-4. **Start the app:**
-
-    ```bash
-    expo start
-    ```
 
 ## 📸 Screenshots
 
@@ -63,9 +32,7 @@ Welcome to the **EV Charging Station Locator App** repository! This app is desig
 </div>
 
 
-## 🤝 Contributing
 
-Feel free to fork this repository and make improvements. Pull requests are welcome!
 
 
 
